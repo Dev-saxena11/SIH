@@ -1,2 +1,2 @@
 # SIH
-an hackatohon
+The Hackathon
